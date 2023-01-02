@@ -1,0 +1,17 @@
+*.pyc
+__pycache__
+models
+data
+embeddings
+notebooks
+local
+runs
+*.conll
+*.txt
+*.subset
+*.confusion
+build/
+conll-formatted-ontonotes-5.0-12/
+stanford-corenlp-full-2018-10-05/
+chinese.*
+english.*
